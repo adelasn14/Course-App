@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/layout/activity_add_course.xml" value="0.16442515055338539" />
+        <entry key="app/src/main/res/layout/activity_detail.xml" value="0.3690750122070312" />
+        <entry key="app/src/main/res/layout/activity_home.xml" value="0.13043478260869565" />
+        <entry key="app/src/main/res/layout/activity_list.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/card_home_view.xml" value="0.10729166666666666" />
+        <entry key="app/src/main/res/layout/content_list.xml" value="0.13043478260869565" />
+        <entry key="app/src/main/res/layout/item_course.xml" value="0.14010416666666667" />
+        <entry key="app/src/main/res/menu/menu_add.xml" value="0.14010416666666667" />
+        <entry key="app/src/main/res/menu/menu_home.xml" value="0.14010416666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="EntryPointsManager">
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="org.junit.Before" />
+    </list>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
